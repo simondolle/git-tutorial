@@ -5,4 +5,8 @@ Mickey
 Riri
 Fifi
 Loulou
+<<<<<<< HEAD
 Gontran
+=======
+Dumbo
+>>>>>>> add Dumbo
